@@ -1,6 +1,6 @@
 # matlab_serial_reader
-Arduinoから出力されるシリアルデータをmatlabで受け取るスクリプト
+arduinoから出力されるシリアルデータをmatlabで受け取るスクリプト
 
-matlabにArduinoサポートのプラグインをインストールする必要がある．
+matlabとarduinoでシリアル通信を行うには，matlabにArduinoサポートのプラグインをインストールする必要がある．
 Arduino Support from MATLAB : 
 https://jp.mathworks.com/hardware-support/arduino-matlab.html
