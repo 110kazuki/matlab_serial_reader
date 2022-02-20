@@ -5,7 +5,7 @@ matlabとarduinoでシリアル通信を行うには，matlabにArduinoサポー
 Arduino Support from MATLAB :  
 https://jp.mathworks.com/hardware-support/arduino-matlab.html
 
-動作確認環境
+動作確認環境  
   matlab  : 2021b  
   arduino : ESP32-DevKitC V4
   
