@@ -52,6 +52,7 @@ end
 %ƒVƒŠƒAƒ‹‚ğ•Â‚¶‚é
 fclose(arduino);
 delete(instrfindall);
+close(hf);
 
 fprintf(sprintf("Serial sent cycle : %f[Hz]\n",length(serial_cap(:,1))/end_t))
 disp("Quit Serial reader, close serial port.")
